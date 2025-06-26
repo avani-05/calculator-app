@@ -1,4 +1,5 @@
 🧮 Calculator Application Using Java Swing
+
 🚀 Abstract
 This project demonstrates a feature-rich calculator application developed using Java Swing, a GUI toolkit for building interactive and user-friendly desktop applications. The calculator supports basic arithmetic operations (addition, subtraction, multiplication, division) and advanced mathematical functions like logarithms, square roots, and trigonometric calculations. It leverages components from javax.swing for a seamless user experience. ✨
 
